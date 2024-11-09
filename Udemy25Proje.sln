@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankaTest", "BankaTest\Bank
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtütTest", "EtütTest\EtütTest.csproj", "{61DFC800-DD1C-4FF0-81BD-3EC926EC85F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTrigger", "TestTrigger\TestTrigger.csproj", "{5D2C0E9B-0B20-4D61-AF55-669F3EC8029E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{61DFC800-DD1C-4FF0-81BD-3EC926EC85F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61DFC800-DD1C-4FF0-81BD-3EC926EC85F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61DFC800-DD1C-4FF0-81BD-3EC926EC85F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D2C0E9B-0B20-4D61-AF55-669F3EC8029E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D2C0E9B-0B20-4D61-AF55-669F3EC8029E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D2C0E9B-0B20-4D61-AF55-669F3EC8029E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D2C0E9B-0B20-4D61-AF55-669F3EC8029E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
